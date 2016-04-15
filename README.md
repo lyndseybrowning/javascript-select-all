@@ -1,1 +1,1 @@
-"# javascript-select-all" 
+# JavaScript - Select All Plugin
